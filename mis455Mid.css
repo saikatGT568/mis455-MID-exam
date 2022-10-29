@@ -1,0 +1,14 @@
+.text-card img{
+    height: 100px;
+    width: 50px;
+}
+.text-card :hover{
+    background-color: whitesmoke;
+}
+h2{
+    text-align: center ;
+   text-decoration: rgb(24, 1, 1);
+}
+.new{
+    display: flex;
+}
